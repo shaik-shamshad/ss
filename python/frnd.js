@@ -1,0 +1,5 @@
+alert("welcome")
+var frnd = prompt("what is your bst frnd name?")
+alert("my best frnd name is,"+frnd)
+alert("me and divya best buddies")
+console.log("she is my bstfrnd")
